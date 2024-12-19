@@ -7,7 +7,7 @@ This repository contains historical Bitcoin price data from 2010 to 2024 in CSV 
 The repository includes the following file:
 
 - **2010.csv -> 2024.csv**  
-  This file contains Bitcoin price data from 2011 onward (the data may be available for a partial or full range depending on the year) with the following columns:
+  This file contains Bitcoin price data from 2010 onward (the data may be available for a partial or full range depending on the year) with the following columns:
 
 | Column      | Description |
 |-------------|-------------|
